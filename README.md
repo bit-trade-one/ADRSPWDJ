@@ -5,6 +5,6 @@
 (製品説明後日記載)
 
 
-## [製品HPリンク](http://bit-trade-one.co.jp/) 
+## [製品HPリンク](https://bit-trade-one.co.jp/adrspwdj) 
 
 ### [Q&A](FAQ.md)
