@@ -1,4 +1,4 @@
-# ADRSPWDJ-Template よくある質問
+# ADRSPWDJ-よくある質問
 <!-- //コメント
 
 ---
