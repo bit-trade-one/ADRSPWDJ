@@ -1,5 +1,5 @@
 # filelist
 
-- ADRSPWDJ_PCBV11.pdf
-- ADRSPWDJ_SchematicsV11.pdf
+- ADRSPWDJ_PCBVxx.pdf
+- ADRSPWDJ_SchematicsVxx.pdf
 - README.md
